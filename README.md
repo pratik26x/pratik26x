@@ -39,6 +39,5 @@ Feel free to connect with me or reach out via email:
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=pratik26x&theme=onedark)
 
-![Contribution Calendar](https://ghchart.rshah.org/pratik26x)
 
 ✨ **"Transforming ideas into intelligent solutions!"**
