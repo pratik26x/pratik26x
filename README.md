@@ -36,7 +36,7 @@ Feel free to connect with me or reach out via email:
 ## GitHub Stats
 
 <div style="display:flex; align-items:start; gap:.7em">
-   <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=pratik.26x&show_icons=false&theme=dark&rank_icon=github&hide_border=true" > 
+   <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=pratik26x&show_icons=false&theme=dark&rank_icon=github&hide_border=true" > 
    <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik26x&theme=dark&hide_progress=true&hide_border=true" />
 </div>
 
@@ -44,7 +44,7 @@ Feel free to connect with me or reach out via email:
 
 ## Holopin Badges
 
-[![An image of @pratik.26x's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratik26x)](https://holopin.io/@pratik.26x)
+[![An image of @pratik26x's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratik26x)](https://holopin.io/@pratik.26x)
 
 ---
 
