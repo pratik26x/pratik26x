@@ -35,10 +35,10 @@ Feel free to connect with me or reach out via email:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratik.26x&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratik26x&show_icons=true&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=pratik.26x&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=pratik26x&theme=onedark)
 
-![Contribution Calendar](https://ghchart.rshah.org/pratik.26x)
+![Contribution Calendar](https://ghchart.rshah.org/pratik26x)
 
 ✨ **"Transforming ideas into intelligent solutions!"**
