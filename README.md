@@ -35,10 +35,17 @@ Feel free to connect with me or reach out via email:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratik26x&show_icons=true&theme=radical)
+<div style="display:flex; align-items:start; gap:.7em">
+   <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=pratik.26x&show_icons=false&theme=dark&rank_icon=github&hide_border=true" > 
+   <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik26x&theme=dark&hide_progress=true&hide_border=true" />
+</div>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=pratik26x&theme=onedark)
+---
 
-![Contribution Calendar](https://ghchart.rshah.org/pratik26x)
+## Holopin Badges
+
+[![An image of @pratik.26x's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratik26x)](https://holopin.io/@pratik.26x)
+
+---
 
 ✨ **"Transforming ideas into intelligent solutions!"**
