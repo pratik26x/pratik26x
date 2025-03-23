@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I’m Pratik Rakhonde, a passionate Software Engin
 
 Feel free to connect with me or reach out via email:
 
-- 🌐 [Portfolio](https://pratikdevin.netlify.app)  
+- 🌐 [Portfolio]([https://pratikdevin.netlify.app](https://pratiks-portfolioin.vercel.app/))  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pratik-rakhonde-952557280/)  
 - 🐦 [Twitter](https://x.com/pratik26x)  
 - 📸 [Instagram](https://www.instagram.com/pratik.26x/)  
